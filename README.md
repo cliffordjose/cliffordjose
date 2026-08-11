@@ -6,7 +6,7 @@
 
 # 👋 Hi, I'm Clifford Jose
 
-### Software Developer · BCA Student · Builder · Problem Solver
+### Software Developer · MCA Student · Builder · Problem Solver
 
 **I build practical software, explore AI, and learn by building.**
 
@@ -28,7 +28,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Clifford Jose**, a software developer and BCA student
+I'm **Clifford Jose**, a software developer
 interested in building useful digital products.
 
 My interests sit at the intersection of:
