@@ -6,7 +6,7 @@
 
 # 👋 Hi, I'm Clifford Jose
 
-### Software Developer · MCA Student · Builder · Problem Solver
+### Software Developer · MCA Student · Problem Solver
 
 **I build practical software, explore AI, and learn by building.**
 
