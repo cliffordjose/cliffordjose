@@ -24,7 +24,7 @@ Building useful software, learning continuously, and turning ideas into real pro
 
 ## 👨‍💻 About Me
 
-I'm **Clifford Jose**, a MSE student and software developer interested in building practical applications and exploring modern technologies.
+I'm **Clifford Jose**, a software developer interested in building practical applications and exploring modern technologies.
 
 My main interests include:
 
