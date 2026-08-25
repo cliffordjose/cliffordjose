@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Clifford Jose
 
-### Software Developer · MCA Student · Problem Solver
+### Software Developer · CS Student · Problem Solver
 
 Building useful software, learning continuously, and turning ideas into real projects.
 
